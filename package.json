@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-http-hsb",
+  "version": "1.0.16",
+  "description": "Homebridge plugin to control LEDs",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandortibor89/homebridge-http-hsb.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "Tibor Sándor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandortibor89/homebridge-http-hsb/issues"
+  },
+  "homepage": "https://github.com/sandortibor89/homebridge-http-hsb#readme"
+}
